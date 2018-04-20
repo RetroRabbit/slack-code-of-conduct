@@ -11,7 +11,7 @@
 
 ## Channel Etiquette
 
-* Keep on topic to the channel description
+* Keep on topic to the channel purpose
 * Be very considerate about using @channel announcements. Keep in mind that people on leave or offline will receive these notifications.
 * Rather use @here when you only want to notify those who are currently online
 * Everyone can see everything posted in #general, and like hotel california, no-one can leave, so use it for announcements only. Threads should be used to reply to those announcements.
