@@ -4,7 +4,6 @@
 
 * Be respectful of others
 * Do not harass others
-* Do not share personal information of others to people outside the community
 * All content shared in public channels must be "safe for work"
 * #general is for announcements. To reply to posts on general, please use threads
 * Your username should be your full name 
