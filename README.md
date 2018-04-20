@@ -28,7 +28,7 @@ Harassment includes:
 
 * Offensive comments related to gender, gender identity and expression, sexual orientation, disability, mental illness, neuro(a)typicality, physical appearance, body size, race, or religion
 * Unwelcome comments regarding a person’s lifestyle choices and practices, including those related to food, health, parenting, drugs, and employment.
-* Deliberate misgendering or use of “dead” or rejected names
+* Deliberate misgendering
 * Gratuitous or off-topic sexual images or behaviour in spaces where they’re not appropriate
 * Physical contact and simulated physical contact (eg, textual descriptions like “hug” or “backrub”) without consent or after a request to stop.
 * Threats of violence
