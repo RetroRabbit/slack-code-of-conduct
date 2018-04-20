@@ -53,7 +53,7 @@ Classes of content which we deem to be unsuitable include:
  - Pornographic or sexually suggestive material, either in graphic or text form.
  - Depictions of physical or emotional abuse, either in graphic or text form.
  - Persecution of any individual as a result of their race, gender, religion or other physical traits.
- - Material intended to, without basis, harm the reputation of any individual whether a member or not.
+ - Material intended to, without basis, harm the reputation of any individual.
 
 ## Consequences
 
