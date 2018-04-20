@@ -7,7 +7,7 @@
 * Do not share personal information of others to people outside the community
 * All content shared in public channels must be "safe for work"
 * #general is for announcements. To reply to posts on general, please use threads
-* Have a useful name 
+* Your username should be your full name 
 
 ## Channel Etiquette
 
