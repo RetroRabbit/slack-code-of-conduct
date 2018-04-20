@@ -1,4 +1,4 @@
-# Retro Rabbit Tech Slack - Code of Conduct
+# Retro Rabbit Slack - Code of Conduct
 
 ## TL;DR
 
