@@ -1,4 +1,4 @@
-# Retro Rabbit Slack - Code of Conduct
+# Retro Rabbit Chat - Code of Conduct
 
 ## TL;DR
 
@@ -18,7 +18,7 @@
 
 ## Slack Naming Convention
 
-* In order to facilitate finding people's profiles, all slack users should have a @username that contains their name and surname.
+* In order to facilitate finding people's profiles, all slack/ryver users should have a @username that contains their name and surname.
 
 ## Code of Conduct
 
